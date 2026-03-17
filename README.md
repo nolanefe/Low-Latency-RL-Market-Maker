@@ -1,8 +1,6 @@
 # Low-Latency RL Market Maker #
 
-A lightweight, C++ based market-making matching engine integrated with a custom Q-Learning algorithm. 
-
-This project serves as a conceptual prototype to bridge the gap between AI theoretical models (Reinforcement Learning) and high-performance, memory-safe execution environments. 
+A lightweight, C++ based market-making matching engine integrated with a custom Q-Learning algorithm. This project serves as a conceptual prototype to bridge the gap between AI theoretical models (Reinforcement Learning) and high-performance, memory-safe execution environments. 
 
 ##  Core Architecture ##
 * **Q-Learning Agent:** Implements the Bellman equation using standard C++ data structures (`std::unordered_map`, `std::vector`) for $O(1)$ average time complexity on state lookups.
