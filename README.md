@@ -16,11 +16,11 @@ A lightweight, C++ based market-making matching engine integrated with a custom 
 This project uses CMake for cross-platform compilation. 
 
 ```bash
-# 1. Clone the repository
+1. Clone the repository
 git clone [https://github.com/nolanefe/Low-Latency-RL-Market-Maker.git](https://github.com/nolanefe/Low-Latency-RL-Market-Maker.git)
 cd Low-Latency-RL-Market-Maker
 
-# 2. Compile and run using the provided script
+2. Compile and run using the provided script
 chmod +x build.sh
 ./build.sh
 ```
