@@ -13,6 +13,7 @@ A lightweight, C++ based market-making matching engine integrated with a custom 
 * **Domain:** Reinforcement Learning, Algorithmic Trading Concepts
 
 ##  Build and Execution ##
+Note: Requires a C++17 compliant compiler (GCC/Clang/MSVC) and CMake 3.10+.
 This project uses CMake for cross-platform compilation. 
 
 ```bash
